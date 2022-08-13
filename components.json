@@ -1,0 +1,6 @@
+{
+  "throttle": "throttle.js",
+  "mySetInterval": "setInterval.js",
+  "handleLimitTask": "promiseLimit.js",
+  "Debounce": "Debounce.js"
+}
